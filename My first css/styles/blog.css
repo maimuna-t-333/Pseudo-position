@@ -1,0 +1,38 @@
+h3{
+    font-size: 40px;
+    text-decoration: overline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.shadow{
+    border: 3px solid purple;
+    display: block;
+    /* height: 200px; */
+    margin: 20px;
+    display: inline-block;
+    padding: 20px;
+}
+.blog{
+    margin: 50px;
+    border: 30px solid seagreen;
+    box-shadow: 10px 10px 10px saddlebrown
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+li{
+    display: inline;
+}
+.header{
+    height: 200px;
+    /* background-color: beige; */
+    background-image:url('Capture.PNG');
+    background-image:url('../Resistor\ color\ code\ table.PNG');
+    /* background-repeat: no-repeat;*/
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size:contain, */
+    background-size: 500px;
+
+}
